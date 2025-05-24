@@ -48,7 +48,7 @@ Here's the table (Value / Encoding):
 
 ## License
 
-Copyright (C) 2023-2024  Jean-Philippe Fleury <https://github.com/jpfleury/base64url
+Copyright (C) 2023-2024  Jean-Philippe Fleury <https://github.com/jpfleury>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
